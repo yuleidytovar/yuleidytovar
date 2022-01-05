@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuleidytovar
-- 👀 I’m interested in Wordpress Development, Search Engine Marketing and Gardening 🌼
+- 👀 I’m interested in Full Stack Development, Search Engine Marketing and Gardening 🌼
 - 🌱 I’m currently learning NodeJs and Laravel
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me IG @yule.tovar Linkedin www.linkedin.com/in/yuleidy-tovar
