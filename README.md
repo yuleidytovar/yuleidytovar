@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuleidytovar
 - 👀 I’m interested in Full Stack Development, Search Engine Marketing and Gardening 🌼
-- 🌱 I’m currently learning NodeJs, Laravel and improving my project management strategies
+- 🌱 I’m currently learning NodeJs, Laravel and improving project management strategies
 - 💞️ I’m looking to collaborate on website development and project management
 - 📫 How to reach me IG @yule.tovar Linkedin www.linkedin.com/in/yuleidy-tovar
 
